@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2013\Projects\SchoolLauncherTS\SchoolLauncherTS\bin\Debug\SchoolLauncherTS.exe.config
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\SchoolLauncherTS\SchoolLauncherTS\bin\Debug\SchoolLauncherTS.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\SchoolLauncherTS\SchoolLauncherTS\bin\Debug\SchoolLauncherTS.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\SchoolLauncherTS\SchoolLauncherTS\bin\Debug\SchoolLauncherTS.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\SchoolLauncherTS\SchoolLauncherTS\obj\Debug\SchoolLauncherTS.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\SchoolLauncherTS\SchoolLauncherTS\obj\Debug\SchoolLauncherTS.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\SchoolLauncherTS\SchoolLauncherTS\obj\Debug\SchoolLauncherTS.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\SchoolLauncherTS\SchoolLauncherTS\obj\Debug\SchoolLauncherTS.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\SchoolLauncherTS\SchoolLauncherTS\obj\Debug\SchoolLauncherTS.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\SchoolLauncherTS\SchoolLauncherTS\obj\Debug\SchoolLauncherTS.AppWindow.resources
