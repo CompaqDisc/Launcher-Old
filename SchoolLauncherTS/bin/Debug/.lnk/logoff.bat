@@ -1,1 +1,0 @@
-shutdown -l -t 0

@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2013\Projects\App Launcher\App Launcher\bin\Debug\App Launcher.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\App Launcher\App Launcher\bin\Debug\App Launcher.exe
+c:\users\owner\documents\visual studio 2013\Projects\App Launcher\App Launcher\bin\Debug\App Launcher.pdb
+c:\users\owner\documents\visual studio 2013\Projects\App Launcher\App Launcher\bin\Debug\App Launcher.xml
+c:\users\owner\documents\visual studio 2013\Projects\App Launcher\App Launcher\obj\Debug\App_Launcher.AppLauncher.resources
+c:\users\owner\documents\visual studio 2013\Projects\App Launcher\App Launcher\obj\Debug\App_Launcher.Resources.resources
+c:\users\owner\documents\visual studio 2013\Projects\App Launcher\App Launcher\obj\Debug\App Launcher.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2013\Projects\App Launcher\App Launcher\obj\Debug\App Launcher.exe
+c:\users\owner\documents\visual studio 2013\Projects\App Launcher\App Launcher\obj\Debug\App Launcher.xml
+c:\users\owner\documents\visual studio 2013\Projects\App Launcher\App Launcher\obj\Debug\App Launcher.pdb
